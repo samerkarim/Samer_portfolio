@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Samer Karim">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Michroma&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="shortcut icon" href="img/SD.png" type="image/x-icon">
+    <script src="JS/main.js"></script>
+    <title>Samer Karim</title>
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="clear1"></div>
+    <div class="clear2"></div>
+    <header>
+        <div class="top">
+            <h1>SAMER KARIM</h1>
+        </div>
+        <ul>
+            <li><a href="##">About</a></li>
+            <li><a href="##">Projects</a></li>
+            <li><a href="##">Skills</a></li>
+            <li><a href="##">Contact</a></li>
+        </ul>
+    </header>
+
+
+    <div id="hero">
+        <img src="img/samer.jpg" alt="Samer Karim">
+        <div class="hero-text">
+            <h2>SAMER KARIM</h2>
+            <p>A passionate graphics designer and web developer who proves that creativity is not related to age.</p>
+        </div>
+    </div>
+
+
+    <div id="about">
+        <h3>About</h3>
+        <p>Hi, My name is Samer Karim. I am a 17-year-old graphics designer and web developer from egypt and I try my best to prove that creativity is not related to age, and I am always <a href="##">read more</a></p>
+    </div>
+
+
+    <div id="projects">
+        <h3>Projects</h3>
+        <p>Here are some of my recent projects:</p>
+        <div class="projects">
+            <img src="img/bb.png" alt="Bumblebee">
+            <img src="img/scorpion.png" alt="Scorpion">
+            <img src="img/br.png" alt="Blue river">
+        </div>
+        <p>There are more of my projects available <a href="##">see more</a></p>
+    </div>
+
+
+    <div id="skills">
+        <h3>Skills</h3>
+        <ul>
+            <li>Graphic Designing</li>
+            <li>Web Development</li>
+            <li>UI/UX Design</li>
+        </ul>
+        <p><a href="##">know more</a> about my skills</p>
+    </div>
+
+
+    <div id="contact">
+        <h3>Contact</h3>
+        <p>If you like my work, feel free to contact me on any social media platform.</p>
+        <p>Get my <a href="##">social links</a></p>
+    </div>
+    
+    
+    <footer>
+        <p>&copy; 2026 Samer Karim. All rights reserved</p>
+        <p>created by <span class="s">Samer Karim</span></p>
+        <p>powered by <span class="c">The Cyber Shield</span></p>
+    </footer>
+</body>
+</html>
